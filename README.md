@@ -1,3 +1,5 @@
+
+````markdown
 # E-Commerce Product Listing
 
 A responsive e-commerce product listing page with filters, sorting, and pagination functionality.
@@ -17,9 +19,10 @@ A responsive e-commerce product listing page with filters, sorting, and paginati
 1. Install dependencies:
 ```bash
 npm install
-```
+````
 
 2. Run the development server:
+
 ```bash
 npm run dev
 ```
@@ -35,13 +38,21 @@ npm start
 
 ## Technologies Used
 
-- React
-- Tailwind CSS
-- Heroicons
+* React
+* Tailwind CSS
+* Heroicons
 
 ## Project Structure
 
-- `/components` - Reusable UI components
-- `/assets` - Images and icons
-- `/pages` - Main page components
+* `/components` - Reusable UI components
+* `/assets` - Images and icons
+* `/pages` - Main page components
 
+## Deployment Link
+
+[Live Demo](https://ecommerce-ui-frontend-intern-est.vercel.app/)
+
+```
+
+Do you also want me to format the **Deployment Link** with brackets (like `[Deployment Link: ...]`) so it matches your earlier request style?
+```
