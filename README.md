@@ -66,6 +66,3 @@ npm start
 
 🔗 [Live Demo](https://ecommerce-ui-frontend-intern-est.vercel.app/)
 
----
-
-Would you like me to give you this as a **ready-to-download `README.md` file** so you can directly add it to your project folder?
